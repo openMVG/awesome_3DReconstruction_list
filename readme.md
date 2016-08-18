@@ -10,6 +10,8 @@
 > If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision)
 
 ##Table of Contents
+- [Papers & tutorials](#papers)
+	- [slam](#papers-slam)
 - [OpenSource software ressources](#opensource)
 	- [SfM](#opensource-sfm)
 	- [Multiple View Geometry Library Solvers](#opensource-solvers)
@@ -20,6 +22,23 @@
 	- [Nearest Neighbor Search](#opensource-nn)
 
 - [Feature detection description](#features)
+
+<a name="papers"></a>
+# Papers & tutorials
+
+<a name="papers-slam"></a>
+## SLAM/VO
+
+### SLAM Tutorial & survey
+
+[ICRA 2016 Aerial Robotics - (Visual odometry)](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) Davide Scaramuzza
+
+[Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian D. Reid, John J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
+
+
+[Visual Odometry [Tutorial]: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
+[Visual odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza,,  IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
+
 
 <a name="opensource"></a>
 # OpenSource ressources
