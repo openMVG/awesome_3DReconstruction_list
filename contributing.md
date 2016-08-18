@@ -20,6 +20,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 - New categories or improvements to the existing categorization are welcome.
 
-- Adding a reference paper should follow this format: `[Paper title](link|project page), Author list, conference/journal name.`
+- Adding a reference paper:
+    - format: `[Paper title](link|project page), Author list, conference/journal name.`
+    - Sorting: publish date
 
 Thank you for your suggestions!
