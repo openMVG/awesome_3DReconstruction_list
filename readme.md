@@ -23,6 +23,10 @@
 
 - [Feature detection description](#features)
 
+- [License](#licence)
+
+- [Contributing](#contributing)
+
 <a name="papers"></a>
 # Papers & tutorials
 
@@ -150,13 +154,14 @@
 |[PhonySift](http://www.icg.tugraz.at/Members/gerhard/mvc/MVC_08_Tracking.pdf) | Multiscale Fast | Reduced Sift grid|
 |ORB|Multiscale Fast|Oriented BRIEF|
 
-## Licenses
-License
+# License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+License [![CCBY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]()
 
 To the extent possible under law, [Pierre Moulon](https://github.com/pmoulon) has waived all copyright and related or neighboring rights to this work.
 
+# Contributing
+Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
 
 
 
