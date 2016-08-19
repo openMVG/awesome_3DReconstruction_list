@@ -22,6 +22,11 @@
 		- [Unordered feature tracking](#papers-sfm-tracking)
 		- [Large scale image matching for SfM](#papers-sfm-large-scale-matching)
 
+	- [MVS](#papers-mvs)
+		- [Point cloud computation](#papers-mvs-point-cloud)
+		- [Surface computation & refinements](#papers-mvs-surface)
+		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
+
 - [OpenSource software ressources](#opensource)
 	- [SfM](#opensource-sfm)
 	- [Multiple View Geometry Library Solvers](#opensource-solvers)
@@ -133,6 +138,47 @@
 
 [Recent developments in large-scale tie-point matching](https://www.infona.pl/resource/bwmeta1.element.elsevier-3a6310b2-2ad0-3bdd-839d-8daecaca680d/content/partDownload/8900b0c7-b69c-39dc-8cbd-94217452a25f). Hartmann, Havlena, Schindler. ISPRS 2016.
 
+<a name="papers-mvs"></a>
+# Multiple View Stereovision
+
+<a name="papers-mvs-point-cloud"></a>
+##Point cloud computation
+
+[Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/cvpr07a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. [PAMI 2010](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf)
+
+[Progressive prioritized multi-view stereo](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.pdf). A. Locher, M. Perdoch and L. Van Gool. CVPR 2016. 
+
+[Pixelwise View Selection for Unstructured Multi-View Stereo](http://people.inf.ethz.ch/jschoenb/papers/schoenberger2016mvs.pdf﻿). J. L. Schönberger, E. Zheng, M. Pollefeys, J.-M. Frahm. ECCV 2016.
+
+
+<a name="papers-mvs-surface"></a>
+## Surface computation & refinements
+
+[Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts](http://www.di.ens.fr/sierra/pdfs/07iccv_a.pdf). P. Labatut, J-P. Pons, R. Keriven:. ICCV 2007
+
+[Multi-View Stereo via Graph Cuts on the Dual of an Adaptive Tetrahedral Mesh](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/SinhaICCV07.pdf). S. N. Sinha, P. Mordohai and M. Pollefeys. ICCV 2007.
+
+[Towards high-resolution large-scale multi-view stereo](https://www.researchgate.net/publication/221364700_Towards_high-resolution_large-scale_multi-view_stereo).  H.-H. Vu, P. Labatut, J.-P. Pons, R. Keriven. CVPR 2009.
+
+[Refinement of Surface Mesh for Accurate Multi-View Reconstruction](http://cmp.felk.cvut.cz/ftp/articles/tylecek/Tylecek-IJVR2010.pdf). R. Tylecek and R. Sara. IJVR 2010.
+
+[High Accuracy and Visibility-Consistent Dense Multiview Stereo]().  H.-H. Vu, P. Labatut, J.-P. Pons, R. Keriven. Pami 2012.
+
+[Exploiting Visibility Information in Surface Reconstruction to Preserve Weakly Supported Surfaces](https://www.researchgate.net/publication/275064596_Exploiting_Visibility_Information_in_Surface_Reconstruction_to_Preserve_Weakly_Supported_Surfaces) M. Jancosek et al. 2014.
+
+[A New Variational Framework for Multiview Surface Reconstruction](http://urbanrobotics.net/pdf/A_New_Variational_Framework_for_Multiview_Surface_Reconstruction_86940719.pdf). B. Semerjian. ECCV 2014.
+
+[Photometric Bundle Adjustment for Dense Multi-View 3D Modeling](https://www.inf.ethz.ch/personal/pomarc/pubs/DelaunoyCVPR14.pdf). A. Delaunoy, M. Pollefeys CVPR2014.
+
+[Efficient Multi-view Surface Refinement with Adaptive Resolution Control](http://home.cse.ust.hk/~slibc/pdf/arc.pdf). S. Li, S. Yu Siu, T. Fang, L. Quan. ECCV 2016.
+
+<a name="papers-mvs-texturing"></a>
+## Multiple View Mesh Texturing
+
+[Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène,  J-P. Pons and R. Keriven. ICPR 2008.
+
+[Let There Be Color! - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
+
 <a name="opensource"></a>
 # OpenSource ressources
 
@@ -144,6 +190,7 @@
 | ---  | --- | --- |
 |[Bundler](https://github.com/snavely/bundler_sfm) | C++ | GNU General Public License - contamination|
 |[Colmap](https://github.com/colmap/colmap) | C++ | GNU General Public License - contamination|
+|[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
 |[MVE](https://github.com/simonfuhrmann/mve) | C++ | BSD 3-Clause license + parts under the GPL 3 license|
 |[OpenMVG](https://github.com/openMVG/openMVG) | C++ |  MPL2 - Permissive|
 |[OpenSfM](https://github.com/mapillary/OpenSfM/) |  Python | Simplified BSD license - Permissive|
@@ -165,6 +212,7 @@
 |[Colmap](https://github.com/colmap/colmap) | C++ CUDA |GNU General Public License - contamination|
 [GPUIma + fusibile](https://github.com/kysucix) | C++ CUDA | GNU General Public License - contamination|
 [HPMVS](https://github.com/alexlocher/hpmvs) | C++ | GNU General Public License - contamination|
+|[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
 [MVE](https://github.com/simonfuhrmann/mve) | C++ | BSD 3-Clause license + parts under the GPL 3 license|
 [OpenMVS](https://github.com/cdcseacave/openMVS/) | C++  (CUDA optional) | AGPL3|
 [PMVS](https://github.com/pmoulon/CMVS-PMVS) | C++ CUDA | GNU General Public License - contamination|
@@ -239,6 +287,7 @@
 |FREAK| |x|
 |FRIF|x|x|
 |[HIPS](http://twd20g.blogspot.fr/2011/12/high-speed-feature-matching-with-simon.html) | | x|
+|[LATCH](http://arxiv.org/pdf/1501.03719.pdf)| |x|
 |MOPS | | x|
 |[PhonySift](http://www.icg.tugraz.at/Members/gerhard/mvc/MVC_08_Tracking.pdf) | Multiscale Fast | Reduced Sift grid|
 |ORB|Multiscale Fast|Oriented BRIEF|
