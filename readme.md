@@ -35,6 +35,7 @@
 	- [Large Scale Image Retrieval](#opensource-cbir)
 	- [Minimization](#opensource-minimization)
 	- [Nearest Neighbor Search](#opensource-nn)
+	- [Mesh storage processing](#opensource-mesh)
 
 - [Feature detection description](#features)
 
@@ -258,6 +259,19 @@
 |[FLANN](http://www.cs.ubc.ca/research/flann/) | C++ | BSD License|
 |[Nanoflann](https://github.com/jlblancoc/nanoflann) | C++ |  BSD License|
 
+<a name="opensource-mesh"></a>
+## Mesh storage processing
+
+| Project |  Language | License|
+| ---  | --- | --- |
+|[CGAL](http://www.cgal.org/) | C++ |  Module dependent GPL/LGPL |
+|[InstantMesh](https://github.com/wjakob/instant-meshes) Mesh Simplification| C++ | BSD License |
+|[GEOGRAM](http://alice.loria.fr/software/geogram/doc/html/index.html/) | C++ | Revised BSD License |
+|[libigl](http://libigl.github.io/libigl/tutorial/tutorial.html)| C++ | MPL2 |
+|[Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library)| C++ | MIT License |
+|[OpenMesh](http://www.openmesh.org/) | C++ | BSD 3 clause license|
+|[PCL](http://www.pointclouds.org/)|C++|3-clause BSD license |
+|[VGC](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)|C++|GPL |
 
 <a name="features"></a>
 # Features
