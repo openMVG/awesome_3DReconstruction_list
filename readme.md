@@ -18,7 +18,7 @@
 		- [Global SfM](#papers-sfm-global)
 		- [Hierarchical SfM](#papers-sfm-hierarchical)
 <br/><br/>
-		- [Graph optimization](#papers-sfm-graph)
+		- [Viewing graph optimization](#papers-sfm-graph)
 		- [Unordered feature tracking](#papers-sfm-tracking)
 		- [Large scale image matching for SfM](#papers-sfm-large-scale-matching)
 
@@ -109,7 +109,7 @@
 [Hierarchical structure-and-motion recovery from uncalibrated images](http://www.diegm.uniud.it/fusiello/papers/cviu15.pdf). Toldo, R.; Gherardi, R., Farenzena, M. and Fusiello, A.. CVIU 2015.
 
 <a name="papers-sfm-graph"></a>
-### Graph optimization
+### Viewing graph optimization
 
 [Skeletal graphs for efficient structure from motion](http://www.cs.cornell.edu/~snavely/projects/skeletalset/). N. Snavely, S. Seitz, R. Szeliski. CVPR 2008
 
