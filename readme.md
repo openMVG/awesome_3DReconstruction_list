@@ -22,6 +22,9 @@
 		- [Unordered feature tracking](#papers-sfm-tracking)
 		- [Large scale image matching for SfM](#papers-sfm-large-scale-matching)
 
+	- [Localization](#papers-localization)
+		- [Real time localization in SfM reconstructions](#papers-localization-in-sfm)
+
 	- [MVS](#papers-mvs)
 		- [Point cloud computation](#papers-mvs-point-cloud)
 		- [Surface computation & refinements](#papers-mvs-surface)
@@ -138,6 +141,18 @@
 [Fast and Accurate Image Matching with Cascade Hashing for 3D Reconstruction](http://www.nlpr.ia.ac.cn/jcheng/papers/CameraReady-CasHash.pdf). J. Cheng, C. Leng, J. Wu, H. Cui, H. Lu. CVPR 2014. 
 
 [Recent developments in large-scale tie-point matching](https://www.infona.pl/resource/bwmeta1.element.elsevier-3a6310b2-2ad0-3bdd-839d-8daecaca680d/content/partDownload/8900b0c7-b69c-39dc-8cbd-94217452a25f). Hartmann, Havlena, Schindler. ISPRS 2016.
+
+
+<a name="papers-localization"></a>
+## Localization
+
+<a name="papers-localization-in-sfm"></a>
+### Real time localization in SfM reconstructions
+
+[Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/limcvpr12.pdf). Lim, Sinha, Cohen, Uyttendaele. CVPR 2012. 
+
+[Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](http://www.roboticsproceedings.org/rss11/p37.pdf). Lynen, Sattler, Bosse, Hesch, Pollefeys, Siegwart. RSS 2015. 
+
 
 <a name="papers-mvs"></a>
 # Multiple View Stereovision
