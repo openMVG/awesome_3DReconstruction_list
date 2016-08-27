@@ -255,7 +255,7 @@
 |[VocabTree2](https://github.com/snavely/VocabTree2) | C++ | BSD License|
 
 <a name="opensource-minimization"></a>
-## OpenSource mimization
+## OpenSource minimization
 
 | Project |  Language | License |
 | ---  | --- | --- |
