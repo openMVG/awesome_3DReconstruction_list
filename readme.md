@@ -155,10 +155,10 @@
 
 
 <a name="papers-mvs"></a>
-# Multiple View Stereovision
+## Multiple View Stereovision
 
 <a name="papers-mvs-point-cloud"></a>
-##Point cloud computation
+### Point cloud computation
 
 [Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/cvpr07a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. [PAMI 2010](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf)
 
@@ -168,7 +168,7 @@
 
 
 <a name="papers-mvs-surface"></a>
-## Surface computation & refinements
+### Surface computation & refinements
 
 [Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts](http://www.di.ens.fr/sierra/pdfs/07iccv_a.pdf). P. Labatut, J-P. Pons, R. Keriven:. ICCV 2007
 
@@ -189,7 +189,7 @@
 [Efficient Multi-view Surface Refinement with Adaptive Resolution Control](http://home.cse.ust.hk/~slibc/pdf/arc.pdf). S. Li, S. Yu Siu, T. Fang, L. Quan. ECCV 2016.
 
 <a name="papers-mvs-texturing"></a>
-## Multiple View Mesh Texturing
+### Multiple View Mesh Texturing
 
 [Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène,  J-P. Pons and R. Keriven. ICPR 2008.
 
