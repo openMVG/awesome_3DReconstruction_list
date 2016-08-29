@@ -18,9 +18,12 @@
 		- [Global SfM](#papers-sfm-global)
 		- [Hierarchical SfM](#papers-sfm-hierarchical)
 <br/><br/>
-		- [Graph optimization](#papers-sfm-graph)
+		- [Viewing graph optimization](#papers-sfm-graph)
 		- [Unordered feature tracking](#papers-sfm-tracking)
 		- [Large scale image matching for SfM](#papers-sfm-large-scale-matching)
+
+	- [Localization](#papers-localization)
+		- [Real time localization in SfM reconstructions](#papers-localization-in-sfm)
 
 	- [MVS](#papers-mvs)
 		- [Point cloud computation](#papers-mvs-point-cloud)
@@ -106,7 +109,7 @@
 [Hierarchical structure-and-motion recovery from uncalibrated images](http://www.diegm.uniud.it/fusiello/papers/cviu15.pdf). Toldo, R.; Gherardi, R., Farenzena, M. and Fusiello, A.. CVIU 2015.
 
 <a name="papers-sfm-graph"></a>
-### Graph optimization
+### Viewing graph optimization
 
 [Skeletal graphs for efficient structure from motion](http://www.cs.cornell.edu/~snavely/projects/skeletalset/). N. Snavely, S. Seitz, R. Szeliski. CVPR 2008
 
@@ -139,11 +142,23 @@
 
 [Recent developments in large-scale tie-point matching](https://www.infona.pl/resource/bwmeta1.element.elsevier-3a6310b2-2ad0-3bdd-839d-8daecaca680d/content/partDownload/8900b0c7-b69c-39dc-8cbd-94217452a25f). Hartmann, Havlena, Schindler. ISPRS 2016.
 
+
+<a name="papers-localization"></a>
+## Localization
+
+<a name="papers-localization-in-sfm"></a>
+### Real time localization in SfM reconstructions
+
+[Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/limcvpr12.pdf). Lim, Sinha, Cohen, Uyttendaele. CVPR 2012. 
+
+[Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](http://www.roboticsproceedings.org/rss11/p37.pdf). Lynen, Sattler, Bosse, Hesch, Pollefeys, Siegwart. RSS 2015. 
+
+
 <a name="papers-mvs"></a>
-# Multiple View Stereovision
+## Multiple View Stereovision
 
 <a name="papers-mvs-point-cloud"></a>
-##Point cloud computation
+### Point cloud computation
 
 [Accurate, Dense, and Robust Multiview Stereopsis](http://www.cs.wustl.edu/~furukawa/papers/cvpr07a.pdf). Y. Furukawa, J. Ponce. CVPR 2007. [PAMI 2010](http://www.cs.wustl.edu/~furukawa/papers/pami08a.pdf)
 
@@ -153,7 +168,7 @@
 
 
 <a name="papers-mvs-surface"></a>
-## Surface computation & refinements
+### Surface computation & refinements
 
 [Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts](http://www.di.ens.fr/sierra/pdfs/07iccv_a.pdf). P. Labatut, J-P. Pons, R. Keriven:. ICCV 2007
 
@@ -174,7 +189,7 @@
 [Efficient Multi-view Surface Refinement with Adaptive Resolution Control](http://home.cse.ust.hk/~slibc/pdf/arc.pdf). S. Li, S. Yu Siu, T. Fang, L. Quan. ECCV 2016.
 
 <a name="papers-mvs-texturing"></a>
-## Multiple View Mesh Texturing
+### Multiple View Mesh Texturing
 
 [Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène,  J-P. Pons and R. Keriven. ICPR 2008.
 
@@ -240,7 +255,7 @@
 |[VocabTree2](https://github.com/snavely/VocabTree2) | C++ | BSD License|
 
 <a name="opensource-minimization"></a>
-## OpenSource mimization
+## OpenSource minimization
 
 | Project |  Language | License |
 | ---  | --- | --- |
