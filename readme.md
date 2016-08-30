@@ -10,7 +10,9 @@
 > If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision)
 
 ##Table of Contents
-- [Papers & tutorials](#papers)
+- [Tutorials](#tutorials)
+
+- [Papers](#papers)
 	- [SLAM](#papers-slam)
 	- [SFM](#papers-sfm)
 
@@ -42,32 +44,36 @@
 
 - [Feature detection description](#features)
 
-- [License](#licence)
+- [Datasets with ground truth - Reproducible research](#dataset)
+
+- [License](#license)
 
 - [Contributing](#contributing)
 
-<a name="papers"></a>
-# Papers & tutorials
+<a name="tutorials"></a>
+# Tutorials
 
-<a name="papers-slam"></a>
-## SLAM/VO
-
-### SLAM Tutorial & survey
+## SLAM Tutorial & survey
 
 [ICRA 2016 Aerial Robotics - (Visual odometry)](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) Davide Scaramuzza
 
 [Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian D. Reid, John J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
 
 
-[Visual Odometry [Tutorial]: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
+[Visual Odometry: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
 
 [Visual odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza,,  IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
-
-<a name="papers-sfm"></a>
 
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
 
+<a name="papers"></a>
+# Papers
+
+<a name="papers-slam"></a>
+## SLAM/VO
+
+<a name="papers-sfm"></a>
 ## SfM papers
 
 <a name="papers-sfm-incremental"></a>
@@ -320,6 +326,33 @@
 |MOPS | | x|
 |[PhonySift](http://www.icg.tugraz.at/Members/gerhard/mvc/MVC_08_Tracking.pdf) | Multiscale Fast | Reduced Sift grid|
 |ORB|Multiscale Fast|Oriented BRIEF|
+
+<a name="dataset"></a>
+#Datasets with ground truth - Reproducible research
+
+## Feature detection/description repeatability
+
+[VGG Oxford](http://www.robots.ox.ac.uk/~vgg/research/affine/) 8 dataset with GT homographies + matlab code.
+
+[Hannover - Region Detector Evaluation Data Set](http://www.tnt.uni-hannover.de/project/feature_evaluation/) Similar to the previous (5 dataset). Datasets have multiple image resolution & an increased GT homographies precision.
+
+[DTU - Robot Image Data Sets - Point Feature Data Set](http://roboimagedata.compute.dtu.dk/?page_id=24) 60 scenes with know calibration & different illuminations.
+
+## Corresponding interest point patches for descriptor learning
+Corresponding patches, saved with a canonical scale and orientation.
+
+[Multi-view Stereo Correspondence Dataset](http://www.cs.ubc.ca/~mbrown/patchdata/patchdata.html)
+
+[HPatches](https://github.com/featw/hpatches) Dataset linked to the ECCV16 workshop "Local Features: State of the art, open problems and performance evaluation"
+
+## MVS repeatability
+
+[Middlebury Multi-view Stereo](http://vision.middlebury.edu/mview/) See "A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms, CVPR 2006."
+
+[Dense MVS](http://cvlabwww.epfl.ch/data/multiview/) See "C. Strecha, W. von Hansen, L. Van Gool, P. Fua, U. Thoennessen On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery CVPR 2008" for more details.
+
+[DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See R. Jensen, A. Dahl, G. Vogiatzis, E. Tola, H. Aanaes, “Large Scale Multi-view Stereopsis Evaluation“, CVPR, 2014.
+
 
 # License
 
