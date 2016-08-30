@@ -55,14 +55,14 @@
 
 ## SLAM Tutorial & survey
 
-[ICRA 2016 Aerial Robotics - (Visual odometry)](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) Davide Scaramuzza
+[ICRA 2016 Aerial Robotics - (Visual odometry)](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf) D. Scaramuzza
 
-[Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian D. Reid, John J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
+[Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age](http://arxiv.org/pdf/1606.05830.pdf). C. Cadena, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. D. Reid, J. J. Leonard. "The paper summarizes the outcome of the workshop “The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM” held during the Robotics: Science and System (RSS) conference (Rome, July 2015)."
 
 
 [Visual Odometry: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
 
-[Visual odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza,,  IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
+[Visual odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
 
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
@@ -72,6 +72,18 @@
 
 <a name="papers-slam"></a>
 ## SLAM/VO
+
+### Visual odometry (image based only)
+
+[Real-time simultaneous localisation and mapping with a single camera](https://www.doc.ic.ac.uk/~ajd/Publications/davison_iccv2003.pdf). A. J. Davison. ICCV 2003.
+
+[Visual odometry](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.4025&rep=rep1&type=pdf). D. Nister, O. Naroditsky, and J. Bergen. CVPR 2004.
+
+[Real time localization and 3d reconstruction](http://maxime.lhuillier.free.fr/pCvpr06.pdf). E. Mouragnon, M. Lhuillier, M. Dhome, F. Dekeyser, and P. Sayd. CVPR 2006.
+
+[Parallel Tracking and Mapping for Small AR Workspaces](http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf). G. Klein, D. Murray. ISMAR 2007.
+
+[Real-Time 6-DOF Monocular Visual SLAM in a Large-scale Environments](http://cvlab.hanyang.ac.kr/~jwlim/files/icra2014vslam.pdf). H. Lim, J. Lim, H. Jin Kim. ICRA 2014.
 
 <a name="papers-sfm"></a>
 ## SfM papers
@@ -190,7 +202,7 @@
 
 [A New Variational Framework for Multiview Surface Reconstruction](http://urbanrobotics.net/pdf/A_New_Variational_Framework_for_Multiview_Surface_Reconstruction_86940719.pdf). B. Semerjian. ECCV 2014.
 
-[Photometric Bundle Adjustment for Dense Multi-View 3D Modeling](https://www.inf.ethz.ch/personal/pomarc/pubs/DelaunoyCVPR14.pdf). A. Delaunoy, M. Pollefeys CVPR2014.
+[Photometric Bundle Adjustment for Dense Multi-View 3D Modeling](https://www.inf.ethz.ch/personal/pomarc/pubs/DelaunoyCVPR14.pdf). A. Delaunoy, M. Pollefeys. CVPR2014.
 
 [Efficient Multi-view Surface Refinement with Adaptive Resolution Control](http://home.cse.ust.hk/~slibc/pdf/arc.pdf). S. Li, S. Yu Siu, T. Fang, L. Quan. ECCV 2016.
 
@@ -345,13 +357,13 @@ Corresponding patches, saved with a canonical scale and orientation.
 
 [HPatches](https://github.com/featw/hpatches) Dataset linked to the ECCV16 workshop "Local Features: State of the art, open problems and performance evaluation"
 
-## MVS repeatability
+## MVS - Point Cloud - Surface accuracy
 
-[Middlebury Multi-view Stereo](http://vision.middlebury.edu/mview/) See "A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms, CVPR 2006."
+[Middlebury Multi-view Stereo](http://vision.middlebury.edu/mview/) See "A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms". CVPR 2006.
 
-[Dense MVS](http://cvlabwww.epfl.ch/data/multiview/) See "C. Strecha, W. von Hansen, L. Van Gool, P. Fua, U. Thoennessen On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery CVPR 2008" for more details.
+[Dense MVS](http://cvlabwww.epfl.ch/data/multiview/) See "On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery". CVPR 2008.
 
-[DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See R. Jensen, A. Dahl, G. Vogiatzis, E. Tola, H. Aanaes, “Large Scale Multi-view Stereopsis Evaluation“, CVPR, 2014.
+[DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See “Large Scale Multi-view Stereopsis Evaluation“. CVPR 2014.
 
 
 # License
