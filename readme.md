@@ -1,7 +1,7 @@
 
 # Awesome 3D reconstruction list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of papers & ressources linked to 3D reconstruction from images.
+> A curated list of papers & resources linked to 3D reconstruction from images.
 
 **Note that:**
 - **This list is not exhaustive,**
@@ -9,7 +9,7 @@
 
 > If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision)
 
-##Table of Contents
+##Contents
 - [Tutorials](#tutorials)
 
 - [Papers](#papers)
@@ -62,7 +62,7 @@
 
 [Visual Odometry: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
 
-[Visual odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
+[Visual Odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
 
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
@@ -71,7 +71,7 @@
 
 [Multi-View Stereo: A Tutorial](http://www.cse.wustl.edu/~furukawa/papers/fnt_mvs.pdf). Y. Furukawa, C. Hernández. Foundations and Trends® in Computer Graphics and Vision, 2015.
 
-[State of the Art 3D Reconstruction Techniques](https://docs.google.com/file/d/0B851Hlh7xL0KNGx3X09VcEYzSjg/preview) N. Snavely, Y. Furukawa, CVPR 2014 tutorial slides. [Introduction](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_intro.pdf) [MVS with priors](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_mvs_prior.pdf) [Large scale MVS](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_large_scale_mvs.pdf)
+[State of the Art 3D Reconstruction Techniques](https://docs.google.com/file/d/0B851Hlh7xL0KNGx3X09VcEYzSjg/preview) N. Snavely, Y. Furukawa, CVPR 2014 tutorial slides. [Introduction](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_intro.pdf) [MVS with priors](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_mvs_prior.pdf) - [Large scale MVS](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_large_scale_mvs.pdf)
 
 ## Computer vision books
 
@@ -226,7 +226,7 @@
 [Let There Be Color! - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
 
 <a name="opensource"></a>
-# OpenSource ressources
+# OpenSource resources
 
 
 <a name="opensource-sfm"></a>
@@ -348,7 +348,7 @@
 |[HIPS](http://twd20g.blogspot.fr/2011/12/high-speed-feature-matching-with-simon.html) | | x|
 |[LATCH](http://arxiv.org/pdf/1501.03719.pdf)| |x|
 |MOPS | | x|
-|[PhonySift](http://www.icg.tugraz.at/Members/gerhard/mvc/MVC_08_Tracking.pdf) | Multiscale Fast | Reduced Sift grid|
+|[PhonySift](http://www.icg.tugraz.at/Members/gerhard/mvc/MVC_08_Tracking.pdf) | Multi-scale Fast | Reduced Sift grid|
 |ORB|Multiscale Fast|Oriented BRIEF|
 
 <a name="dataset"></a>
@@ -386,7 +386,6 @@ To the extent possible under law, [Pierre Moulon](https://github.com/pmoulon) ha
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
-
 
 
 
