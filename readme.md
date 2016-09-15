@@ -19,6 +19,7 @@
 		- [Incremental SfM](#papers-sfm-incremental)
 		- [Global SfM](#papers-sfm-global)
 		- [Hierarchical SfM](#papers-sfm-hierarchical)
+		- [Non Rigid SfM](#papers-non-rigid-sfm)
 <br/><br/>
 		- [Viewing graph optimization](#papers-sfm-graph)
 		- [Unordered feature tracking](#papers-sfm-tracking)
@@ -72,6 +73,10 @@
 [Multi-View Stereo: A Tutorial](http://www.cse.wustl.edu/~furukawa/papers/fnt_mvs.pdf). Y. Furukawa, C. Hernández. Foundations and Trends® in Computer Graphics and Vision, 2015.
 
 [State of the Art 3D Reconstruction Techniques](https://docs.google.com/file/d/0B851Hlh7xL0KNGx3X09VcEYzSjg/preview) N. Snavely, Y. Furukawa, CVPR 2014 tutorial slides. [Introduction](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_intro.pdf) [MVS with priors](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_mvs_prior.pdf) - [Large scale MVS](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_large_scale_mvs.pdf)
+
+## All in one tutorial
+
+[Introduction of Visual SLAM, Structure from Motion and Multiple View Stereo](http://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo). Yu Huang 2014.
 
 ## Computer vision books
 
@@ -137,6 +142,11 @@
 [Efficient Structure from Motion by Graph Optimization](https://dspace.cvut.cz/bitstream/handle/10467/62206/Havlena_stat.pdf?sequence=1&isAllowed=y). M. Havlena, A. Torii, and T. Pajdla. ECCV 2010.
 
 [Hierarchical structure-and-motion recovery from uncalibrated images](http://www.diegm.uniud.it/fusiello/papers/cviu15.pdf). Toldo, R.; Gherardi, R., Farenzena, M. and Fusiello, A.. CVIU 2015.
+
+<a name="papers-non-rigid-sfm"></a>
+### Non Rigid SfM
+
+[Robust Structure from Motion in the Presence of Outliers and Missing Data](http://arxiv.org/abs/1609.02638). G. Wang, J. S. Zelek, J. Wu, R. Bajcsy. 2016.
 
 <a name="papers-sfm-graph"></a>
 ### Viewing graph optimization
