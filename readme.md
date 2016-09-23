@@ -321,6 +321,7 @@
 
 | Project |  Language | License|
 | ---  | --- | --- |
+[3DTK](http://slam6d.sourceforge.net/) | C++ | GPLv3|
 |[CGAL](http://www.cgal.org/) | C++ |  Module dependent GPL/LGPL |
 |[InstantMesh](https://github.com/wjakob/instant-meshes) Mesh Simplification| C++ | BSD License |
 |[GEOGRAM](http://alice.loria.fr/software/geogram/doc/html/index.html/) | C++ | Revised BSD License |
@@ -329,6 +330,7 @@
 |[OpenMesh](http://www.openmesh.org/) | C++ | BSD 3 clause license|
 |[PCL](http://www.pointclouds.org/)|C++|3-clause BSD license |
 |[VGC](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)|C++|GPL |
+
 
 <a name="features"></a>
 # Features
