@@ -329,7 +329,7 @@
 |[Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library)| C++ | MIT License |
 |[OpenMesh](http://www.openmesh.org/) | C++ | BSD 3 clause license|
 |[PCL](http://www.pointclouds.org/)|C++|3-clause BSD license |
-|[VGC](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)|C++|GPL |
+|[VCG](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)|C++|GPL |
 
 
 <a name="features"></a>
