@@ -253,7 +253,7 @@
 |[OpenMVG](https://github.com/openMVG/openMVG) | C++ |  MPL2 - Permissive|
 |[OpenSfM](https://github.com/mapillary/OpenSfM/) |  Python | Simplified BSD license - Permissive|
 |[TheiaSfM](https://github.com/sweeneychris/TheiaSfM) | C++ |   New BSD license - Permissive|
-
+|[MAP-Tk](https://github.com/Kitware/maptk)| C++ | BSD - Permissive | Windows,Linux,OSX | Hierarchical-SfM, Uncalibrated, GUI
 
 <a name="opensource-solvers"></a>
 ## OpenSource Multiple View Geometry Library Solvers
