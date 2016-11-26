@@ -102,6 +102,8 @@
 
 [Real-Time 6-DOF Monocular Visual SLAM in a Large-scale Environments](http://cvlab.hanyang.ac.kr/~jwlim/files/icra2014vslam.pdf). H. Lim, J. Lim, H. Jin Kim. ICRA 2014.
 
+[Direct Sparse Odometry](https://www.arxiv.org/abs/1607.02565), J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.
+
 <a name="papers-sfm"></a>
 ## SfM papers
 
@@ -286,6 +288,7 @@
 | Project |  Language | License |
 | ---  | --- | --- |
 |[COSLAM](http://drone.sjtu.edu.cn/dpzou/project/coslam.php) | C++ |  GNU General Public License|
+|[DSO-Direct Sparse Odometry](https://github.com/JakobEngel/dso) | C++ |  GPLv3|
 |[DTSLAM-Deferred Triangulation SLAM](https://github.com/plumonito/dtslam) | C++ |  modified BSD|
 |[LSD-SLAM](https://github.com/tum-vision/lsd_slam/) | C++/ROS |  GNU General Public License|
 |[ORB-SLAM](https://github.com/raulmur/ORB_SLAM2) | C++ | GPLv3|
@@ -387,6 +390,10 @@ Corresponding patches, saved with a canonical scale and orientation.
 [Multi-view Stereo Correspondence Dataset](http://www.cs.ubc.ca/~mbrown/patchdata/patchdata.html)
 
 [HPatches](https://github.com/featw/hpatches) Dataset linked to the ECCV16 workshop "Local Features: State of the art, open problems and performance evaluation"
+
+## Monocular odometry dataset
+
+[Mono dataset](http://vision.in.tum.de/data/datasets/mono-dataset) 50 real-world sequences. Dataset linked to the DSO Visual Odometry paper.
 
 ## MVS - Point Cloud - Surface accuracy
 
