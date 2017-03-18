@@ -259,7 +259,7 @@
 |[Bundler](https://github.com/snavely/bundler_sfm) | C++ | GNU General Public License - contamination|
 |[Colmap](https://github.com/colmap/colmap) | C++ | GNU General Public License - contamination|
 |[MAP-Tk](https://github.com/Kitware/maptk) | C++ | BSD 3-Clause license - Permissive |
-|[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
+|[MicMac](https://github.com/micmacIGN) | C++ | CeCILL-B |
 |[MVE](https://github.com/simonfuhrmann/mve) | C++ | BSD 3-Clause license + parts under the GPL 3 license|
 |[OpenMVG](https://github.com/openMVG/openMVG) | C++ |  MPL2 - Permissive|
 |[OpenSfM](https://github.com/mapillary/OpenSfM/) |  Python | Simplified BSD license - Permissive|
