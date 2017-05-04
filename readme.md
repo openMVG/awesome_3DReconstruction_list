@@ -332,6 +332,7 @@
 |[ANN](http://www.cs.umd.edu/~mount/ANN/) | C++ | GNU General Public License|
 |[Annoy](https://github.com/spotify/annoy) | C++ |  Apache License|
 |[FLANN](http://www.cs.ubc.ca/research/flann/) | C++ | BSD License|
+|[Libnabo](https://github.com/ethz-asl/libnabo) | C++ | BSD License|
 |[Nanoflann](https://github.com/jlblancoc/nanoflann) | C++ |  BSD License|
 
 <a name="opensource-mesh"></a>
