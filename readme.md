@@ -115,7 +115,7 @@
 ## SfM papers
 
 <a name="papers-sfm-incremental"></a>
-### Incremental SfM
+### Incremental SfM
 [Photo Tourism: Exploring Photo Collections in 3D](http://phototour.cs.washington.edu/Photo_Tourism.pdf). N. Snavely, S. M. Seitz, and R. Szeliski.  SIGGRAPH 2006.
 
 [Towards linear-time incremental structure from motion](http://ccwu.me/vsfm/vsfm.pdf). C. Wu. 3DV 2013.
@@ -385,7 +385,7 @@
 |ORB|Multiscale Fast|Oriented BRIEF|
 
 <a name="dataset"></a>
-#Datasets with ground truth - Reproducible research
+# Datasets with ground truth - Reproducible research
 
 ## Feature detection/description repeatability
 
