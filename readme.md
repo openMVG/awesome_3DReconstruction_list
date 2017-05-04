@@ -413,6 +413,10 @@ Corresponding patches, saved with a canonical scale and orientation.
 
 [DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See “Large Scale Multi-view Stereopsis Evaluation“. CVPR 2014.
 
+ [A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos in Unstructured Scenes](http://people.inf.ethz.ch/sattlert/publications/Schoeps2017CVPR.pdf), T. Schöps, J. L. Schönberger, S. Galiani, T. Sattler, K. Schindler, M. Pollefeys, A. Geiger,. CVPR 2017.
+
+[Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction](http://vladlen.info/publications/tanks-temples-benchmarking-large-scale-scene-reconstruction/), A. Knapitsch, J. Park, Q.Y. Zhou and V. Koltun. SIGGRAPH 2017.
+
 
 # License
 
