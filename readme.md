@@ -9,7 +9,8 @@
 
 > If you look to a more generic computer vision awesome list please check [this list](https://github.com/jbhuang0604/awesome-computer-vision)
 
-##Contents
+## Contents
+
 - [Tutorials](#tutorials)
 
 - [Papers](#papers)
@@ -114,7 +115,7 @@
 ## SfM papers
 
 <a name="papers-sfm-incremental"></a>
-### Incremental SfM
+### Incremental SfM
 [Photo Tourism: Exploring Photo Collections in 3D](http://phototour.cs.washington.edu/Photo_Tourism.pdf). N. Snavely, S. M. Seitz, and R. Szeliski.  SIGGRAPH 2006.
 
 [Towards linear-time incremental structure from motion](http://ccwu.me/vsfm/vsfm.pdf). C. Wu. 3DV 2013.
@@ -220,7 +221,7 @@
 <a name="papers-mvs-surface"></a>
 ### Surface computation & refinements
 
-[Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts](http://www.di.ens.fr/sierra/pdfs/07iccv_a.pdf). P. Labatut, J-P. Pons, R. Keriven:. ICCV 2007
+[Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts](http://www.di.ens.fr/sierra/pdfs/07iccv_a.pdf). P. Labatut, J-P. Pons, R. Keriven. ICCV 2007
 
 [Multi-View Stereo via Graph Cuts on the Dual of an Adaptive Tetrahedral Mesh](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/SinhaICCV07.pdf). S. N. Sinha, P. Mordohai and M. Pollefeys. ICCV 2007.
 
@@ -241,6 +242,8 @@
 [Multi-View Inverse Rendering under Arbitrary Illumination and Albedo](http://www.ok.ctrl.titech.ac.jp/~torii/project/mvir/), K. Kim, A. Torii, M. Okutomi, ECCV2016.
 
 [Shading-aware Multi-view Stereo](http://www.gcc.tu-darmstadt.de/media/gcc/papers/Langguth-2016-SMV.pdf), F. Langguth and K. Sunkavalli and S. Hadap and M. Goesele, ECCV 2016.
+
+[Scalable Surface Reconstruction from Point Clouds with Extreme Scale and Density Diversity](https://arxiv.org/abs/1705.00949), C. Mostegel, R. Prettenthaler, F. Fraundorfer and H. Bischof. CVPR 2017.
 
 <a name="papers-mvs-texturing"></a>
 ### Multiple View Mesh Texturing
@@ -331,6 +334,7 @@
 |[ANN](http://www.cs.umd.edu/~mount/ANN/) | C++ | GNU General Public License|
 |[Annoy](https://github.com/spotify/annoy) | C++ |  Apache License|
 |[FLANN](http://www.cs.ubc.ca/research/flann/) | C++ | BSD License|
+|[Libnabo](https://github.com/ethz-asl/libnabo) | C++ | BSD License|
 |[Nanoflann](https://github.com/jlblancoc/nanoflann) | C++ |  BSD License|
 
 <a name="opensource-mesh"></a>
@@ -383,7 +387,7 @@
 |ORB|Multiscale Fast|Oriented BRIEF|
 
 <a name="dataset"></a>
-#Datasets with ground truth - Reproducible research
+# Datasets with ground truth - Reproducible research
 
 ## Feature detection/description repeatability
 
@@ -411,6 +415,10 @@ Corresponding patches, saved with a canonical scale and orientation.
 [Dense MVS](http://cvlabwww.epfl.ch/data/multiview/) See "On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery". CVPR 2008.
 
 [DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See “Large Scale Multi-view Stereopsis Evaluation“. CVPR 2014.
+
+ [A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos in Unstructured Scenes](http://people.inf.ethz.ch/sattlert/publications/Schoeps2017CVPR.pdf), T. Schöps, J. L. Schönberger, S. Galiani, T. Sattler, K. Schindler, M. Pollefeys, A. Geiger,. CVPR 2017.
+
+[Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction](http://vladlen.info/publications/tanks-temples-benchmarking-large-scale-scene-reconstruction/), A. Knapitsch, J. Park, Q.Y. Zhou and V. Koltun. SIGGRAPH 2017.
 
 
 # License
