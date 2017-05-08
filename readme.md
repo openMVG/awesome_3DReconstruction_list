@@ -33,6 +33,8 @@
 		- [Point cloud computation](#papers-mvs-point-cloud)
 		- [Surface computation & refinements](#papers-mvs-surface)
 		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
+		
+	- [UAV Trajectory Optimization for model completeness](#papers-uav-acquisition)
 
 - [OpenSource software ressources](#opensource)
 	- [SfM](#opensource-sfm)
@@ -251,6 +253,11 @@
 [Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène,  J-P. Pons and R. Keriven. ICPR 2008.
 
 [Let There Be Color! - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
+
+<a name="papers-uav-acquisition"></a>
+### UAV Trajectory Optimization for model completeness
+
+[Submodular Trajectory Optimization for Aerial 3D Scanning](http://graphics.stanford.edu/papers/aerial_scanning/). M. Roberts, A. Truong, D. Dey, S. Sinha, A. Kapoor, N. Joshi, P. Hanrahan. 2017.
 
 <a name="opensource"></a>
 # OpenSource resources
