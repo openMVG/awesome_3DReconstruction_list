@@ -113,6 +113,8 @@
 
 [Direct Sparse Odometry](https://www.arxiv.org/abs/1607.02565), J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.
 
+[Visual SLAM algorithms: a survey from 2010 to 2016](https://link.springer.com/article/10.1186/s41074-017-0027-2), T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl (2017)
+
 <a name="papers-sfm"></a>
 ## SfM papers
 
