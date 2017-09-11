@@ -36,7 +36,7 @@
 		
 	- [UAV Trajectory Optimization for model completeness](#papers-uav-acquisition)
 
-- [OpenSource software ressources](#opensource)
+- [OpenSource software resources](#opensource)
 	- [SfM](#opensource-sfm)
 	- [Multiple View Geometry Library Solvers](#opensource-solvers)
 	- [MVS (Multiple View Stereovision)](#opensource-mvs)
