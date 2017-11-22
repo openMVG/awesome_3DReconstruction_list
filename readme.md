@@ -20,6 +20,7 @@
 		- [Incremental SfM](#papers-sfm-incremental)
 		- [Global SfM](#papers-sfm-global)
 		- [Hierarchical SfM](#papers-sfm-hierarchical)
+		- [Multi-Stage SfM](#papers-sfm-multi-stage)
 		- [Non Rigid SfM](#papers-non-rigid-sfm)
 <br/><br/>
 		- [Viewing graph optimization](#papers-sfm-graph)
@@ -33,7 +34,7 @@
 		- [Point cloud computation](#papers-mvs-point-cloud)
 		- [Surface computation & refinements](#papers-mvs-surface)
 		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
-		
+
 	- [UAV Trajectory Optimization for model completeness](#papers-uav-acquisition)
 
 - [OpenSource software resources](#opensource)
@@ -74,6 +75,8 @@
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
 
+[Large-scale 3D Reconstruction from Images](https://home.cse.ust.hk/~tshenaa/sub/ACCV2016/ACCV_2016_Tutorial.html). T. Shen, J. Wang, T.Fang, L. Quan. ACCV 2016 Tutorial.
+
 ## MVS tutorial
 
 [Multi-View Stereo: A Tutorial](http://www.cse.wustl.edu/~furukawa/papers/fnt_mvs.pdf). Y. Furukawa, C. Hernández. Foundations and Trends® in Computer Graphics and Vision, 2015.
@@ -113,7 +116,7 @@
 
 [Direct Sparse Odometry](https://www.arxiv.org/abs/1607.02565), J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.
 
-[Visual SLAM algorithms: a survey from 2010 to 2016](https://link.springer.com/article/10.1186/s41074-017-0027-2), T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl (2017)
+[Visual SLAM algorithms: a survey from 2010 to 2016](https://link.springer.com/article/10.1186/s41074-017-0027-2), T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl 2017.
 
 <a name="papers-sfm"></a>
 ## SfM papers
@@ -154,7 +157,17 @@
 
 [Efficient Structure from Motion by Graph Optimization](https://dspace.cvut.cz/bitstream/handle/10467/62206/Havlena_stat.pdf?sequence=1&isAllowed=y). M. Havlena, A. Torii, and T. Pajdla. ECCV 2010.
 
-[Hierarchical structure-and-motion recovery from uncalibrated images](http://www.diegm.uniud.it/fusiello/papers/cviu15.pdf). Toldo, R.; Gherardi, R., Farenzena, M. and Fusiello, A.. CVIU 2015.
+[Hierarchical structure-and-motion recovery from uncalibrated images](http://www.diegm.uniud.it/fusiello/papers/cviu15.pdf). Toldo, R., Gherardi, R., Farenzena, M. and Fusiello, A.. CVIU 2015.
+
+<a name="papers-sfm-multi-stage"></a>
+### Multi-Stage SfM
+
+[Parallel Structure from Motion from Local Increment to Global Averaging](https://arxiv.org/abs/1702.08601). S. Zhu, T. Shen, L. Zhou, R. Zhang, J. Wang, T. Fang, L. Quan. arXiv 2017.
+
+[Multistage SFM : Revisiting Incremental Structure from Motion](https://researchweb.iiit.ac.in/~rajvi.shah/projects/multistagesfm/).
+R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-to-Fine Approach for 3D Reconstruction](http://arxiv.org/abs/1512.06235), arXiv 2016.
+
+[HSfM: Hybrid Structure-from-Motion](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_HSfM_Hybrid_Structure-from-Motion_CVPR_2017_paper.pdf). H. Cui, X. Gao, S. Shen and Z. Hu, ICCV 2017.
 
 <a name="papers-non-rigid-sfm"></a>
 ### Non Rigid SfM
@@ -168,7 +181,7 @@
 
 [Optimizing the Viewing Graph for Structure-from-Motion](http://homes.cs.washington.edu/~csweeney/papers/optimizing_the_viewing_graph.pdf). C. Sweeney, T. Sattler, M. Turk, T. Hollerer, M. Pollefeys. ICCV 2015
 
-[Graph-Based Consistent Matching for Strucutre-from-Motion](https://home.cse.ust.hk/~tshenaa/files/pub/eccv2016_graph_match.pdf). T. Shen, S. Zhu, T. Fang, R. Zhang, L. Quan. ECCV 2016.
+[Graph-Based Consistent Matching for Structure-from-Motion](https://home.cse.ust.hk/~tshenaa/files/pub/eccv2016_graph_match.pdf). T. Shen, S. Zhu, T. Fang, R. Zhang, L. Quan. ECCV 2016.
 
 <a name="papers-sfm-tracking"></a>
 ### Unordered feature tracking
@@ -191,9 +204,11 @@
 
 [Product quantization for nearest neighbor search](https://hal.inria.fr/file/index/docid/825085/filename/jegou_pq_postprint.pdf). H. Jégou, M. Douze and C. Schmid. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2011.
 
-[Fast and Accurate Image Matching with Cascade Hashing for 3D Reconstruction](http://www.nlpr.ia.ac.cn/jcheng/papers/CameraReady-CasHash.pdf). J. Cheng, C. Leng, J. Wu, H. Cui, H. Lu. CVPR 2014. 
+[Fast and Accurate Image Matching with Cascade Hashing for 3D Reconstruction](http://www.nlpr.ia.ac.cn/jcheng/papers/CameraReady-CasHash.pdf). J. Cheng, C. Leng, J. Wu, H. Cui, H. Lu. CVPR 2014.
 
 [Recent developments in large-scale tie-point matching](https://www.infona.pl/resource/bwmeta1.element.elsevier-3a6310b2-2ad0-3bdd-839d-8daecaca680d/content/partDownload/8900b0c7-b69c-39dc-8cbd-94217452a25f). Hartmann, Havlena, Schindler. ISPRS 2016.
+
+[Graphmatch: Efficient Large-Scale Graph Construction for Structure from Motion](http://homes.cs.washington.edu/~csweeney/papers/graphmatch.pdf). C. Qiaodong, V. Fragoso, C. Sweeney and P. Sen. 3DV 2017.
 
 
 <a name="papers-localization"></a>
@@ -202,9 +217,9 @@
 <a name="papers-localization-in-sfm"></a>
 ### Real time localization in SfM reconstructions
 
-[Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/limcvpr12.pdf). Lim, Sinha, Cohen, Uyttendaele. CVPR 2012. 
+[Real-time Image-based 6-DOF Localization in Large-Scale Environments](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/limcvpr12.pdf). Lim, Sinha, Cohen, Uyttendaele. CVPR 2012.
 
-[Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](http://www.roboticsproceedings.org/rss11/p37.pdf). Lynen, Sattler, Bosse, Hesch, Pollefeys, Siegwart. RSS 2015. 
+[Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](http://www.roboticsproceedings.org/rss11/p37.pdf). Lynen, Sattler, Bosse, Hesch, Pollefeys, Siegwart. RSS 2015.
 
 
 <a name="papers-mvs"></a>
@@ -217,7 +232,7 @@
 
 [State of the art in high density image matching](https://www.researchgate.net/publication/263465866_State_of_the_art_in_high_density_image_matching﻿). F. Remondino, M.G. Spera, E. Nocerino, F. Menna, F. Nex . The Photogrammetric Record 29(146), 2014.
 
-[Progressive prioritized multi-view stereo](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.pdf). A. Locher, M. Perdoch and L. Van Gool. CVPR 2016. 
+[Progressive prioritized multi-view stereo](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.pdf). A. Locher, M. Perdoch and L. Van Gool. CVPR 2016.
 
 [Pixelwise View Selection for Unstructured Multi-View Stereo](http://people.inf.ethz.ch/jschoenb/papers/schoenberger2016mvs.pdf﻿). J. L. Schönberger, E. Zheng, M. Pollefeys, J.-M. Frahm. ECCV 2016.
 
@@ -315,7 +330,7 @@
 |[LSD-SLAM](https://github.com/tum-vision/lsd_slam/) | C++/ROS |  GNU General Public License|
 |[OKVIS: Open Keyframe-based Visual-Inertial SLAM](https://github.com/ethz-asl/okvis) | C++ | BSD|
 |[ORB-SLAM](https://github.com/raulmur/ORB_SLAM2) | C++ | GPLv3|
-|[REBVO - Realtime Edge Based Visual Odometry for a Monocular Camera](https://github.com/JuanTarrio/rebvo) | C++ |  GNU General Public License | 
+|[REBVO - Realtime Edge Based Visual Odometry for a Monocular Camera](https://github.com/JuanTarrio/rebvo) | C++ |  GNU General Public License |
 |[SVO semi-direct Visual Odometry](https://github.com/uzh-rpg/rpg_svo) | C++/ROS | GNU General Public License|
 
 <a name="opensource-cbir"></a>
@@ -440,7 +455,3 @@ To the extent possible under law, [Pierre Moulon](https://github.com/pmoulon) ha
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
-
-
-
-
