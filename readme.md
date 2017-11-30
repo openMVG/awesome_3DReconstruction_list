@@ -149,6 +149,8 @@
 
 [Linear Global Translation Estimation from Feature Tracks](http://arxiv.org/abs/1503.01832) Z. Cui, N. Jiang, C. Tang, P. Tan, BMVC 2015.
 
+[Exploiting Symmetry and/or Manhattan Properties for 3D Object Structure Estimation from Single and Multiple Images](https://arxiv.org/abs/1607.07129). Y. Gao, A. Yuille, CVPR 2017.
+
 <a name="papers-sfm-hierarchical"></a>
 ### Hierarchical SfM
 [Structure-and-Motion Pipeline on a Hierarchical Cluster Tree](http://www.diegm.uniud.it/fusiello/papers/3dim09.pdf).  A. M.Farenzena, A.Fusiello, R. Gherardi. Workshop on 3-D Digital Imaging and Modeling, 2009.
@@ -173,6 +175,8 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 ### Non Rigid SfM
 
 [Robust Structure from Motion in the Presence of Outliers and Missing Data](http://arxiv.org/abs/1609.02638). G. Wang, J. S. Zelek, J. Wu, R. Bajcsy. 2016.
+
+[Symmetric Non-Rigid Structure from Motion for Category-Specific Object Structure Estimation](https://arxiv.org/abs/1609.06988). Y. Gao, A. Yuille. ECCV 2016.
 
 <a name="papers-sfm-graph"></a>
 ### Viewing graph optimization
