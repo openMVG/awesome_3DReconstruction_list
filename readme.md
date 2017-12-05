@@ -221,6 +221,10 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 [Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization](http://www.roboticsproceedings.org/rss11/p37.pdf). Lynen, Sattler, Bosse, Hesch, Pollefeys, Siegwart. RSS 2015.
 
+[DSAC - Differentiable RANSAC for Camera Localization](https://arxiv.org/abs/1611.05705). E. Brachmann, A. Krull, S. Nowozin, J. Shotton, F. Michel, S. Gumhold, C. Rother. CVPR 2017.
+
+[Learning Less is More - 6D Camera Localization via 3D Surface Regression](https://arxiv.org/abs/1711.10228). E. Brachmann, C. Rother. Submitted to CVPR 2018.
+
 
 <a name="papers-mvs"></a>
 ## Multiple View Stereovision
