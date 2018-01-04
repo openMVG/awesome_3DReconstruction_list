@@ -443,7 +443,7 @@ Corresponding patches, saved with a canonical scale and orientation.
 
 [Middlebury Multi-view Stereo](http://vision.middlebury.edu/mview/) See "A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms". CVPR 2006.
 
-[Dense MVS](http://cvlabwww.epfl.ch/data/multiview/) See "On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery". CVPR 2008.
+[Dense MVS](https://icwww.epfl.ch/~marquez/multiview/denseMVS.html) See "On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery". CVPR 2008.
 
 [DTU - Robot Image Data Sets -MVS Data Set](http://roboimagedata.compute.dtu.dk/?page_id=36) See “Large Scale Multi-view Stereopsis Evaluation“. CVPR 2014.
 
