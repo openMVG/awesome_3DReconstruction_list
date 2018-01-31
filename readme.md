@@ -379,6 +379,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 |[GEOGRAM](http://alice.loria.fr/software/geogram/doc/html/index.html/) | C++ | Revised BSD License |
 |[libigl](http://libigl.github.io/libigl/tutorial/tutorial.html)| C++ | MPL2 |
 |[Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library)| C++ | MIT License |
+|[Open3D](https://github.com/IntelVCL/Open3D/)| C++ | MIT License |
 |[OpenMesh](http://www.openmesh.org/) | C++ | BSD 3 clause license|
 |[PCL](http://www.pointclouds.org/)|C++|3-clause BSD license |
 |[VCG](http://vcg.isti.cnr.it/~cignoni/newvcglib/html/)|C++|GPL |
