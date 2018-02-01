@@ -29,8 +29,8 @@
 
 	- [Localization](#papers-localization)
 		- [Real time localization in SfM reconstructions](#papers-localization-in-sfm)
-
 	- [MVS](#papers-mvs)
+		- [Multi view-based reconstruction/generation](#papers-mvrecon-gen)
 		- [Point cloud computation](#papers-mvs-point-cloud)
 		- [Surface computation & refinements](#papers-mvs-surface)
 		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
@@ -228,6 +228,12 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 <a name="papers-mvs"></a>
 ## Multiple View Stereovision
+
+<a name="papers-mvrecon-gen"></a>
+### Multi view-based reconstruction/generation
+
+[Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes with Deep Generative Networks](https://github.com/Amir-Arsalan/Synthesize3DviaDepthOrSil). AA. Soltani, H. Huang, J. Wu, T. Kulkarni, J. Tenenbaum. CVPR 2017.
+
 
 <a name="papers-mvs-point-cloud"></a>
 ### Point cloud computation
