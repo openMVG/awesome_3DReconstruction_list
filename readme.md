@@ -31,6 +31,7 @@
 		- [Real time localization in SfM reconstructions](#papers-localization-in-sfm)
 
 	- [MVS](#papers-mvs)
+		- [Multi view-based reconstruction/generation](#papers-mvrecon-gen)
 		- [Point cloud computation](#papers-mvs-point-cloud)
 		- [Surface computation & refinements](#papers-mvs-surface)
 		- [Machine Learning MVS](#papers-machine-learning-mvs)
@@ -229,6 +230,18 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 <a name="papers-mvs"></a>
 ## Multiple View Stereovision
+
+<a name="papers-mvrecon-gen"></a>
+### Multi view-based reconstruction/generation
+[Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes with Deep Generative Networks](https://github.com/Amir-Arsalan/Synthesize3DviaDepthOrSil). AA. Soltani, H. Huang, J. Wu, T. Kulkarni, J. Tenenbaum. CVPR 2017.
+
+[3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://arxiv.org/pdf/1707.06375.pdf). Zhou, T., Tulsiani, S., Sun, W., Malik, J., & Efros, A. A. EECV 2016.
+
+[View Synthesis by Appearance Flow](https://arxiv.org/pdf/1605.03557.pdf). Lun, Z., Gadelha, M., Kalogerakis, E., Maji, S., & Wang, R. 3DV 2017.
+
+[3D Object Reconstruction from a Single Depth View with Adversarial Learning](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Yang_3D_Object_Reconstruction_ICCV_2017_paper.pdf). Yang, B., Wen, H., Wang, S., Clark, R., Markham, A., & Trigoni, N. ICCV Workshops 2017.
+
+[Learning a Multi-View Stereo Machine](https://arxiv.org/abs/1708.05375). Kar, A., Häne, C., & Malik, J. NIPS 2017
 
 <a name="papers-mvs-point-cloud"></a>
 ### Point cloud computation
