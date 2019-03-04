@@ -340,7 +340,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 | Project |  Language | License |
 | ---  | --- | --- |
-|[Colmap](https://github.com/colmap/colmap) | C++ CUDA |GNU General Public License - contamination|
+|[Colmap](https://github.com/colmap/colmap) | C++ CUDA |BSD 3-clause license - Permissive (Can use CGAL -> GNU General Public License - contamination)|
 [GPUIma + fusibile](https://github.com/kysucix) | C++ CUDA | GNU General Public License - contamination|
 [HPMVS](https://github.com/alexlocher/hpmvs) | C++ | GNU General Public License - contamination|
 |[MICMAC](http://logiciels.ign.fr/?Micmac) | C++ | CeCILL-B |
