@@ -130,7 +130,7 @@
 
 [Towards linear-time incremental structure from motion](http://ccwu.me/vsfm/vsfm.pdf). C. Wu. 3DV 2013.
 
-[Structure-from-Motion Revisited](http://people.inf.ethz.ch/jschoenb/papers/schoenberger2016sfm.pdf). Schöenberger, Frahm. CVPR 2016.
+[Structure-from-Motion Revisited](https://demuc.de/papers/schoenberger2016sfm.pdf). Schöenberger, Frahm. CVPR 2016.
 
 <a name="papers-sfm-global"></a>
 ### Global SfM
