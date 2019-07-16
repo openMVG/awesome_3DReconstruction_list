@@ -73,6 +73,8 @@
 
 [Visual Odometry: Part II - Matching, robustness, optimization, and applications](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf), F. Fraundorfer and D. Scaramuzza, IEEE Robotics and Automation Magazine, Volume 19, issue 2, 2012
 
+[Large-scale, real-time visual-inertial localization revisited](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/70c308dec1b9849921e969b1f36afd65c5884e29.pdf) S. Lynen, B. Zeisl, D. Aiger, M. Bosse, J. Hesch, M. Pollefeys, R. Siegwart and T. Sattler. Arxiv 2019.
+
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
 
