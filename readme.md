@@ -245,6 +245,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 [Pixelwise View Selection for Unstructured Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf). J. L. Schönberger, E. Zheng, M. Pollefeys, J.-M. Frahm. ECCV 2016.
 
+[TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo] (https://arxiv.org/pdf/1903.10929.pdf). A. Romanoni, M. Matteucci. ICCV 2019
 
 <a name="papers-mvs-surface"></a>
 ### Surface computation & refinements
