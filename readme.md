@@ -427,6 +427,8 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 ## Features detection/Description
 
+[From handcrafted to deep local features](https://arxiv.org/abs/1807.10254). G. Csurka, C. R. Dance, M. Humenberger. 2018.
+
 | Project | Detection | Description |
 | ---  | --- | --- |
 |[AKAZE](https://github.com/pablofdezalc/akaze) |x|MSURF/MLDB|
