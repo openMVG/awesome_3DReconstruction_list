@@ -123,6 +123,8 @@
 
 [Visual SLAM algorithms: a survey from 2010 to 2016](https://link.springer.com/article/10.1186/s41074-017-0027-2), T. Taketomi, H. Uchiyama, S. Ikeda, IPSJ T Comput Vis Appl 2017.
 
+[∇SLAM: Dense SLAM meets Automatic Differentiation](https://arxiv.org/abs/1910.10672). K. M. Jatavallabhula, G. Iyer, L. Paull. arXiv:1910.10672, 2019.
+
 <a name="papers-sfm"></a>
 ## SfM papers
 
