@@ -125,6 +125,10 @@
 
 [∇SLAM: Dense SLAM meets Automatic Differentiation](https://arxiv.org/abs/1910.10672). K. M. Jatavallabhula, G. Iyer, L. Paull. arXiv:1910.10672, 2019.
 
+[Direct Sparse Mapping](https://github.com/jzubizarreta/dsm) J. Zubizarreta, I. Aguinaga and J. M. M. Montiel. arXiv:1904.06577, 2019.
+
+[OpenVSLAM: A Versatile Visual SLAM Framework](https://github.com/xdspacelab/openvslam) Sumikura, Shinya and Shibuya, Mikiya and Sakurada, Ken. In Proceedings of the 27th ACM International Conference on Multimedia 2019
+
 <a name="papers-sfm"></a>
 ## SfM papers
 
