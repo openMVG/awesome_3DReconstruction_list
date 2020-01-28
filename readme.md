@@ -78,8 +78,6 @@
 ## SfM tutorial
 [Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
 
-[Large-scale 3D Reconstruction from Images](https://home.cse.ust.hk/~tshenaa/sub/ACCV2016/ACCV_2016_Tutorial.html). T. Shen, J. Wang, T.Fang, L. Quan. ACCV 2016 Tutorial.
-
 ## MVS tutorial
 
 [Multi-View Stereo: A Tutorial](http://www.cse.wustl.edu/~furukawa/papers/fnt_mvs.pdf). Y. Furukawa, C. Hernández. Foundations and Trends® in Computer Graphics and Vision, 2015.
