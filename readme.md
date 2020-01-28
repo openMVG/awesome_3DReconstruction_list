@@ -76,8 +76,6 @@
 [Large-scale, real-time visual-inertial localization revisited](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/70c308dec1b9849921e969b1f36afd65c5884e29.pdf) S. Lynen, B. Zeisl, D. Aiger, M. Bosse, J. Hesch, M. Pollefeys, R. Siegwart and T. Sattler. Arxiv 2019.
 
 ## SfM tutorial
-[Open Source Structure-from-Motion](http://www.kitware.com/cvpr2015-tutorial.html). M. Leotta, S. Agarwal, F. Dellaert, P. Moulon, V. Rabaud. CVPR 2015 Tutorial.
-
 [Large-scale 3D Reconstruction from Images](https://home.cse.ust.hk/~tshenaa/sub/ACCV2016/ACCV_2016_Tutorial.html). T. Shen, J. Wang, T.Fang, L. Quan. ACCV 2016 Tutorial.
 
 ## MVS tutorial
