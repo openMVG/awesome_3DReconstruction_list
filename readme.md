@@ -343,6 +343,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 |[OpenMVG](https://github.com/openMVG/openMVG) | C++ |  MPL2 - Permissive|
 |[OpenSfM](https://github.com/mapillary/OpenSfM/) |  Python | Simplified BSD license - Permissive|
 |[TheiaSfM](https://github.com/sweeneychris/TheiaSfM) | C++ |   New BSD license - Permissive|
+|[OpenCV](https://opencv.org) | C++ + bindings | BSD 3-Clause license - Permissive |
 
 
 <a name="opensource-solvers"></a>
