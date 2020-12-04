@@ -89,7 +89,7 @@
 ## RGB-D mapping
 [3D indoor scene modeling from RGB-D data: a survey](http://cg.cs.tsinghua.edu.cn/papers/CVMJ-2015-scene-moddeling.pdf) K. Chen, YK. Lai and SM. Hu. Computational Visual Media 2015.
 
-[State of the Art on 3D Reconstruction with RGB-D Cameras](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
+[State of the Art on 3D Reconstruction with RGB-D Cameras](https://zollhoefer.com/papers/EG18_RecoSTAR/page.html) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
 
 ## All in one tutorial
 
