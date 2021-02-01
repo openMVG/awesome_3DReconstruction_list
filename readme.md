@@ -22,6 +22,7 @@
 		- [Hierarchical SfM](#papers-sfm-hierarchical)
 		- [Multi-Stage SfM](#papers-sfm-multi-stage)
 		- [Non Rigid SfM](#papers-non-rigid-sfm)
+        - [Line-Base SfM](#papers-line-based-sfm)
 <br/><br/>
 		- [Viewing graph optimization](#papers-sfm-graph)
 		- [Unordered feature tracking](#papers-sfm-tracking)
@@ -185,7 +186,32 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 
 [Robust Structure from Motion in the Presence of Outliers and Missing Data](http://arxiv.org/abs/1609.02638). G. Wang, J. S. Zelek, J. Wu, R. Bajcsy. 2016.
 
+<a name="papers-line-based-sfm"></a>
+
+### Line-Based SfM
+
+[Multiple View Geom.try in Computer Vision. Cambridge: Cambridge University Press](http://ebooks.cambridge.org/ref/id/CBO9780511811685). R. Hartley and A. Zisserman. 2004.
+
+[Extraction and pose recovery based on dominant rectangular structures matching](http://www.sciencedirect.com/science/article/pii/S1077314205000482). J. Košecká and W. Zhang. CVIU 2005.
+
+[Globally optimal pose estimation from line correspondences](http://ieeexplore.ieee.org/document/5980272/). F. M. Mirzaei and S. I. Roumeliotis. ICRA 2011..
+
+[Line-based relative pose estimation](https://www.cs.rutgers.edu/{~}elgammal/pub/CVPR11{\_}Elqursh.pdf). A. Elqursh and A. Elgammal. CVPR 2011.
+
+[Robust and Efficient Pose Estimation from Line Correspondences](http://link.springer.com/10.1007/978-3-642-37431-9{\_}17). L. Zhang, C. Xu, K.-M. Lee, and R. Koch. ACCV 2012..
+
+[Camera Pose Estimation from Lines using Plücker Coordinates](http://www.bmva.org/bmvc/2015/papers/paper045/index.html). B. Přibyl, P. Zemčík, and M. Čadik. BMVC 2015..
+
+[Absolute Pose Estimation from Line Correspondences using Direct Linear Transformation](http://arxiv.org/abs/1608.06891). B. Přibyl, P. Zemčík, and M. Čadík. arxiv 2016.
+
+[Probabilistic approach for maximum likelihood estimation of pose using lines](http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0099). X. Li, Y. Zhang, Y. Shang, and H. Liu. CVI 2016.
+
+[Robust and Accurate Line- and/or Point-Based Pose Estimation without Manhattan Assumptions](http://link.springer.com/10.1007/978-3-319-46478-7{\_}49). Y. Salaün, R. Marlet, and P. Monasse. ECCV 2016.
+
+[Pose Estimation from Line Correspondences: A Complete Analysis and a Series of Solutions](http://ieeexplore.ieee.org/document/7494617/). C. Xu, L. Zhang, L. Cheng, and R. Koch. TPAMI 2017.
+
 <a name="papers-sfm-graph"></a>
+
 ### Viewing graph optimization
 
 [Skeletal graphs for efficient structure from motion](http://www.cs.cornell.edu/~snavely/projects/skeletalset/). N. Snavely, S. Seitz, R. Szeliski. CVPR 2008
