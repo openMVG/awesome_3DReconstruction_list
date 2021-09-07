@@ -91,6 +91,8 @@
 
 [State of the Art on 3D Reconstruction with RGB-D Cameras](https://zollhoefer.com/papers/EG18_RecoSTAR/page.html) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
 
+[Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction) P. Turner. 2021.
+
 ## All in one tutorial
 
 [Introduction of Visual SLAM, Structure from Motion and Multiple View Stereo](http://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo). Yu Huang 2014.
