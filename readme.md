@@ -91,8 +91,6 @@
 
 [State of the Art on 3D Reconstruction with RGB-D Cameras](https://zollhoefer.com/papers/EG18_RecoSTAR/page.html) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
 
-[Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction) P. Turner. 2021.
-
 ## All in one tutorial
 
 [Introduction of Visual SLAM, Structure from Motion and Multiple View Stereo](http://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo). Yu Huang 2014.
@@ -322,6 +320,8 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 [Seamless image-based texture atlases using multi-band blending](http://imagine.enpc.fr/publications/papers/ICPR08a.pdf). C. Allène,  J-P. Pons and R. Keriven. ICPR 2008.
 
 [Let There Be Color! - Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/). M. Waechter, N. Moehrle, M. Goesele. ECCV 2014.
+
+[Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction) P. Turner. 2021.
 
 <a name="papers-uav-acquisition"></a>
 ### UAV Trajectory Optimization for model completeness
