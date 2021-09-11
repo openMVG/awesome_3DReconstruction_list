@@ -37,6 +37,9 @@
 		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
 
 	- [UAV Trajectory Optimization for model completeness](#papers-uav-acquisition)
+	
+	- [AR](#papers-ar)
+		- [Real-Time Mesh Texturing](#papers-real-time-texturing)
 
 - [OpenSource software resources](#opensource)
 	- [SfM](#opensource-sfm)
@@ -325,6 +328,14 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 ### UAV Trajectory Optimization for model completeness
 
 [Submodular Trajectory Optimization for Aerial 3D Scanning](http://graphics.stanford.edu/papers/aerial_scanning/). M. Roberts, A. Truong, D. Dey, S. Sinha, A. Kapoor, N. Joshi, P. Hanrahan. 2017.
+
+<a name="papers-ar"></a>
+## Augmented Reality
+
+<a name="papers-real-time-texturing"></a>
+### Real-Time Mesh Texturing
+
+[Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone](https://github.com/philipturner/scene-color-reconstruction). P. Turner. 2021.
 
 <a name="opensource"></a>
 # OpenSource resources
