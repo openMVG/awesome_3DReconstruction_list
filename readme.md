@@ -93,7 +93,7 @@
 
 ## All in one tutorial
 
-[Introduction of Visual SLAM, Structure from Motion and Multiple View Stereo](http://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo). Yu Huang 2014.
+[Introduction of Visual SLAM, Structure from Motion and Multiple View Stereo](https://dokumen.tips/engineering/visual-slam-structure-from-motion-multiple-view-stereo.html). Yu Huang 2014.
 
 ## Computer vision books
 
