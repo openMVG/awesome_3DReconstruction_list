@@ -37,6 +37,7 @@
 		- [Multiple View Mesh Texturing](#papers-mvs-texturing)
 
 	- [UAV Trajectory Optimization for model completeness](#papers-uav-acquisition)
+	- [Interactive techniques](#papers-interactive-techniques)
 
 - [OpenSource software resources](#opensource)
 	- [SfM](#opensource-sfm)
@@ -330,6 +331,11 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 ### UAV Trajectory Optimization for model completeness
 
 [Submodular Trajectory Optimization for Aerial 3D Scanning](http://graphics.stanford.edu/papers/aerial_scanning/). M. Roberts, A. Truong, D. Dey, S. Sinha, A. Kapoor, N. Joshi, P. Hanrahan. 2017.
+
+<a name="papers-interactive-techniques"></a>
+### Interactive techniques
+
+[3-Sweep: Extracting Editable Objects from a Single Photo](http://cg.cs.tsinghua.edu.cn/3sweep/). T. Chen, Z. Zhu, A. Shamir, D. Cohen, Shi-Min Hu. SIGASIA 2013.
 
 <a name="opensource"></a>
 # OpenSource resources
